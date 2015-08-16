@@ -5,9 +5,8 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
-cmather:iron-router
 iron:router
 less
 nemo64:bootstrap
+useraccounts:bootstrap
+accounts-password
